@@ -1,4 +1,4 @@
-# Prediction of Product Sales 💼📊 💼✨
+# Prediction of Product Sales 💼📊✨
 
 ## Project Overview
 
@@ -39,5 +39,5 @@ This heatmap shows the correlation between different features in the dataset. It
 
 - **Load and Inspect Data**: Loading the dataset and performing an initial inspection of the data. 🔍
 - **Clean Data**: Handling missing values, correcting data types, and ensuring the dataset is ready for analysis. 🧼✨
-- **Exploratory Data Analysis (EDA)**: Visualizing and summarizing the data to uncover key patterns and trends. 📊🔍
+- **Exploratory Data Analysis (EDA)**: Visualizing and summarizing the data to uncover key patterns and trends. 📊
 - **Feature Inspection**: Examining the features and understanding their role in predicting the target variable. 🛠️👀

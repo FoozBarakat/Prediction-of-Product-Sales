@@ -3,6 +3,7 @@
 ## Project Overview
 
 Welcome to my portfolio project! This project demonstrates my data science skills through the exploration and analysis of a sales dataset. You'll find a step-by-step breakdown of the entire process, from loading and cleaning the data to performing in-depth analysis. Let’s dive in!
+
 ---
 
 ### 📋 Feature Dictionary
@@ -21,14 +22,17 @@ Welcome to my portfolio project! This project demonstrates my data science skill
 | `Outlet_Location_Type`        | The location type of the store (Tier 1, Tier 2, Tier 3)                                                           | Tier 1       |
 | `Outlet_Type`                 | Type of store (e.g., Grocery Store, Supermarket Type1)                                                            | Supermarket Type1 |
 | **`Item_Outlet_Sales`**       | **Total sales of the product in that particular store (Target variable)**                                         | 3735.1380    |
+
 ---
 
-## Key Insights 🔍
+## Key Insights 🔍 
 
 ### Feature Correlation Heatmap 🔥
+
 ![Heatmap](https://github.com/user-attachments/assets/bf10bb6b-f6ad-4543-9ba8-cae1fdc87b05)
-  
+
 This heatmap shows the correlation between different features in the dataset. It highlights that **Item MRP** has the strongest positive correlation with **Item Outlet Sales**, making it a key factor in predicting sales.
+
 ---
 
 ## What You’ll Find in This Project 📑

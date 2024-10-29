@@ -41,3 +41,4 @@ This heatmap shows the correlation between different features in the dataset. It
 - **Clean Data**: Handling missing values, correcting data types, and ensuring the dataset is ready for analysis. 🧼✨
 - **Exploratory Data Analysis (EDA)**: Visualizing and summarizing the data to uncover key patterns and trends. 📊
 - **Feature Inspection**: Examining the features and understanding their role in predicting the target variable. 🛠️👀
+- **Modeling and Evaluation:** Building and evaluating Linear Regression and Random Forest models, with fine-tuning for optimal performance. 🔧📈

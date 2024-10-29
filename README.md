@@ -33,6 +33,18 @@ Welcome to my portfolio project! This project demonstrates my data science skill
 
 This heatmap shows the correlation between different features in the dataset. It highlights that **Item MRP** has the strongest positive correlation with **Item Outlet Sales**, making it a key factor in predicting sales.
 
+### Linear Regression Coefficients 📈
+
+![co](https://github.com/user-attachments/assets/9c7bc729-b7e7-4b99-9fd5-d474a5910318)
+
+The bar chart above displays the top coefficients from the linear regression model. **Outlet_Type_Supermarket Type3** and Item MRP have the largest positive coefficients, indicating they are the most influential in predicting sales.
+
+### Random Forest Feature Importance 🌲
+
+![im](https://github.com/user-attachments/assets/e6a817af-855c-44c6-809e-b6b638e47524)
+
+The feature importance plot from the Random Forest model shows **Item MRP** and **Outlet_Type** as the most important predictors of sales, with **Outlet_Establishment_Year** having minimal impact compared to other features.
+
 ---
 
 ## What You’ll Find in This Project 📑

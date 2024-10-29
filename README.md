@@ -45,6 +45,19 @@ The bar chart above displays the top coefficients from the linear regression mod
 
 The feature importance plot from the Random Forest model shows **Item MRP** and **Outlet_Type** as the most important predictors of sales, with **Outlet_Establishment_Year** having minimal impact compared to other features.
 
+### Model Performance Metrics 📊
+
+The table below summarizes the performance of Linear Regression and Random Forest models on both training and test datasets.
+
+| Model               | Dataset       | MAE     | MSE         | RMSE     | R²    |
+|---------------------|---------------|---------|-------------|----------|-------|
+| **Linear Regression** | Training Data | 848.362 | 1,299,195.297 | 1139.822 | 0.561 |
+|                     | Test Data     | 806.114 | 1,197,186.399 | 1094.160 | 0.566 |
+| **Random Forest**   | Training Data | 755.688 | 1,134,219.997 | 1064.998 | 0.617 |
+|                     | Test Data     | 733.514 | 1,102,325.082 | 1049.917 | 0.600 |
+
+**Interpretation**: The Random Forest model outperforms Linear Regression in terms of lower MAE, MSE, and RMSE, as well as a higher R² score, indicating a better fit for predicting sales in this dataset.
+
 ---
 
 ## What You’ll Find in This Project 📑
